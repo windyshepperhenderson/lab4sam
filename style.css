@@ -1,0 +1,63 @@
+header {background-color: lightblue;
+        color: maroon;
+        text-align: center;
+        font-size: large;
+        margin-top: 50px;
+        
+        
+}
+
+h1 {font-size: 100px;
+    margin-bottom: -1%;}
+
+ul>li {display: inline;
+           
+}
+
+a {display: inline;}
+
+img {max-width: 60%;
+    max-height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 50px;
+}
+
+h2{text-align: center;
+margin-bottom: 100px;}
+
+.boxes {display: flex;
+    justify-content: center;
+    }
+
+.rev {
+    max-width: 800px;
+    max-height: 800px;
+    text-align: center;
+}
+
+.swing {max-width: 800px;
+    max-height: 800px;
+    text-align: center;
+}
+
+.blood{
+    max-width; 800px;
+    max-height: 800px;
+    text-align: center;
+
+}
+
+
+
+body{background-color: lightblue;
+    color: maroon;
+
+}
+
+footer {background-color: lightblue;
+    color: maroon;
+    text-align: center;
+
+}
