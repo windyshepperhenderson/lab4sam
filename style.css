@@ -10,6 +10,8 @@ header {background-color: lightblue;
 h1 {font-size: 100px;
     margin-bottom: -1%;}
 
+.welcome {color: black;}
+
 ul>li {display: inline;
            
 }
@@ -56,8 +58,9 @@ body{background-color: lightblue;
 
 }
 
-footer {background-color: lightblue;
+footer {background-color: rgb(1, 70, 93);
     color: maroon;
     text-align: center;
+    padding: 15px;
 
 }
