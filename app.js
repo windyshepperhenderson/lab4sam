@@ -21,3 +21,18 @@ function askFilm() {
 
   document.write(message);
 }
+
+function getRating () {
+    let rating = prompt('How many fresh tomatoes would you give the film The Revenant? 1-10');
+
+    while (rating < 0 || rating >=11) 
+      rating = prompt('Please enter a number 10 or lower!')
+
+
+    for (let i = 0; i < rating; i++) 
+    
+    document.write("<img src='tom.jpg'/>")
+        
+    }
+
+  
